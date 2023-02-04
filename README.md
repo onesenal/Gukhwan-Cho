@@ -1,6 +1,6 @@
 # Who Am I?
 Cloud Engineer 
-![](https://pixabay.com/ko//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3843352)
+![](https://pixabay.com/images/id-3843352/)
 
 
 
