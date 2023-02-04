@@ -43,7 +43,7 @@
 
 #### Education 💻
 - 기업 멤버십 SW 캠프_CAB TA 1기
-	- 운영 기관 : [CCCR Academy]("https://www.cccr-edu.or.kr/course/course_view.jsp?id=40388&cid=4301&ch=course&page=1")
+	- 운영 기관 : [CCCR Academy](https://www.cccr-edu.or.kr/course/course_view.jsp?id=40388&cid=4301&ch=course&page=1)
 	- 교육 기간 : 2022.07~2023.02
 	- 교육 내용 
 	해당 과정은 DevOps & SRE 엔지니어 부트 캠프로써, 클라우드 분야 우수한 교육 운영 능력을 갖춘 한국클라우드컴퓨팅연구조합과 14개 멤버십 기업이 협업하여 이론 및 실습, 실무 프로젝트로 구성한 취업 연계가 포함되어 있습니다.
