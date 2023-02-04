@@ -2,7 +2,6 @@
 <img src="https://cdn.pixabay.com/photo/2018/11/28/10/45/cloud-3843352_960_720.jpg" style="width:550px;"></a>
 
 
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fonesenal%2Fonesenal.git&count_bg=%23B20CB6&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 <a href="https://github.com/onesenal/onesenal/stargazers"><img src="https://img.shields.io/github/stars/onesenal/onesenal" alt="Stars Badge"/></a>
 <a href="https://github.com/onesenal/onesenal/network/members"><img src="https://img.shields.io/github/forks/onesenal/onesenal" alt="Forks Badge"/></a>
@@ -10,16 +9,15 @@
 <a href="https://github.com/onesenal/onesenal/issues"><img src="https://img.shields.io/github/issues/onesenal/onesenal" alt="Issues Badge"/></a>
 <a href="https://github.com/onesenal/onesenal/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/onesenal/onesenal?color=2b9348"></a>
 
-<img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
 
-<i>Loved the project? Please consider [donating](https://paypal.me/abhisheknaiidu) to help it improve!</i>
+<b>클라우드 엔지니어를 향해 나아가고 있는 조국환입니다.</b>
 
 </div>
 
 ### Contents:
   - [Categories](#categories)
-      - [GitHub Actions 🤖](#github-actions-)
-      - [Game Mode 🚀](#game-mode-)
+      - [Education 💻](#Education-)
+      - [Skills 🚀](#Skills-)
       - [Code Mode 👨🏽‍💻](#code-mode-)
       - [Dynamic Realtime 💫](#dynamic-realtime-)
       - [A Little Bit of Everything 😃](#a-little-bit-of-everything-)
@@ -43,48 +41,24 @@
 
 ## Categories
 
-#### GitHub Actions 🤖
-- [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
-- [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
-- [Brian Douglas](https://github.com/bdougie/bdougie)
-- [Shawn Wang](https://github.com/sw-yx/sw-yx)
-- [Simon Willison](https://github.com/simonw/simonw)
-- [Mike Coutermarsh](https://github.com/mscoutermarsh/mscoutermarsh)
-- [Michael Hoffmann (Mokkapps)](https://github.com/mokkapps/mokkapps)
-- [Athul Cyriac Ajay](https://github.com/athul/athul)
-- [Gautam Krishna R](https://github.com/gautamkrishnar/gautamkrishnar)
-- [Roald Nefs](https://github.com/roaldnefs/roaldnefs)
-- [Leo](https://github.com/mopig/mopig)
-- [Dhruv Jain](https://github.com/maddhruv/maddhruv)
-- [Erwin Lejeune](https://github.com/guilyx/guilyx)
-- [Jessica Lim](https://github.com/JessicaLim8/JessicaLim8)
-- [侑夕-Tw93](https://github.com/tw93/tw93)
-- [liununu](https://github.com/liununu/liununu)
-- [Filippo Rossi (qu4k)](https://github.com/qu4k/qu4k)
-- [Moe Poi ~](https://github.com/moepoi/moepoi)
-- [Elon Tang (blackcater)](https://github.com/blackcater/blackcater)
-- [Stanley Lim (Spiderpig86)](https://github.com/Spiderpig86/Spiderpig86)
-- [Akshit Garg (gargakshit)](https://github.com/gargakshit/gargakshit)
-- [Yufan You](https://github.com/ouuan/ouuan)
-- [Danny Koppenhagen](https://github.com/d-koppenhagen/d-koppenhagen)
-- [Vidya Bhandary](https://github.com/vidyabhandary/vidyabhandary)
-- [Rao Hai](https://github.com/RaoHai/RaoHai)
-- [Jatin Rao](https://github.com/jatin2003/jatin2003)
-- [teoxoy](https://github.com/teoxoy/teoxoy)
-- [Aral Roca](https://github.com/aralroca/aralroca)
-- [codeSTACKr](https://github.com/codestackr/codestackr)
-- [itgoyo](https://github.com/itgoyo/itgoyo)
-- [lifeparticle](https://github.com/lifeparticle/lifeparticle)
+#### Education 💻
+- 기업 멤버십 SW 캠프_CAB TA 1기
+	- 운영 기관 : [CCCR Academy]("https://www.cccr-edu.or.kr/course/course_view.jsp?id=40388&cid=4301&ch=course&page=1")
+	- 교육 기간 : 2022.07~2023.02
+	- 교육 내용 
+	해당 과정은 DevOps & SRE 엔지니어 부트 캠프로써, 클라우드 분야 우수한 교육 운영 능력을 갖춘 한국클라우드컴퓨팅연구조합과 14개 멤버십 기업이 협업하여 이론 및 실습, 실무 프로젝트로 구성한 취업 연계가 포함되어 있습니다.
 
-#### Game Mode 🚀
-- [Tim Burgan](https://github.com/timburgan/timburgan)
-- [Ben Sampica](https://github.com/benjaminsampica/benjaminsampica)
-- [Kavish Hukmani](https://github.com/DoubleGremlin181/DoubleGremlin181)
-- [Jonathan Gin](https://github.com/JonathanGin52/JonathanGin52)
-- [Ross Williams](https://github.com/rossjrw/rossjrw)
-- [kylepls](https://github.com/kylepls/kylepls)
-- [Aaron Liu](https://github.com/HFO4/HFO4)
-- [marcizhu](https://github.com/marcizhu/marcizhu)
+
+#### Skills 🚀
+- <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=Linux&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Ansible%20-000000?style=flat-square&logo=Ansible&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Amazon-000000?style=flat-square&logo=Amazon&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Docker-61DAFB?style=flat-square&logo=Docker&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Kubernetes-3776AB?style=flat-square&logo=Kubernetes&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Jenkins-4FC08D?style=flat-square&logo=Jenkins&logoColor=white"/>
 
 #### Code Mode 👨🏽‍💻
 - [Thaiane Braga](https://github.com/Thaiane/Thaiane)
@@ -354,27 +328,6 @@ Please read the [contribution guidelines](contributing.md) first.
 To the extent possible under law, [Abhishek Naidu](https://abhisheknaidu.tech/) has waived all copyright and related or neighboring rights to this work.
 ﹏﹏﹏﹏﹏﹏﹏
 
-<br/><br/>
- 
-<h3>💻 Skills 💻</h3>
- 
-<br/>
 
 
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-<img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-
-</div>
-
-<br/>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
