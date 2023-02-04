@@ -20,7 +20,6 @@
 <a href="https://github.com/onesenal/onesenal/pulls"><img src="https://img.shields.io/github/issues-pr/onesenal/onesenal" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/onesenal/onesenal/issues"><img src="https://img.shields.io/github/issues/onesenal/onesenal" alt="Issues Badge"/></a>
 <a href="https://github.com/onesenal/onesenal/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/onesenal/onesenal?color=2b9348"></a>
-<a href="https://github.com/onesenal/onesenal/blob/master/LICENSE"><img src="https://img.shields.io/github/license/onesenal/onesenal?color=2b9348" alt="License Badge"/></a>
 
 <img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
 
