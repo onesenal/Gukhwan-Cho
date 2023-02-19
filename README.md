@@ -47,7 +47,7 @@
 
  프로젝트명 | 기술문서 | 발표자료 | Git Repository |프로젝트 기간 
 :-------------: | :-------------: | :-------------: | :-------------: | :-------------:
- Kubernetes DevSecOps Toolchain Service | [Click](https://docs.google.com/document/d/1o6YaBrFl9ouEKxEBeTSaunQ44BkN39gFtcnx9rqwdEA/edit?usp=sharing) | [Click](https://www.notion.so/Main-Page-fe35c46b02d84682b73b5a394b44182f) | [Click](https://github.com/onesenal/Innogrid_Project.git) | 23.01.01~23.02.27 (진행중) 
+ Kubernetes DevSecOps Toolchain Service | [Click](https://docs.google.com/document/d/1o6YaBrFl9ouEKxEBeTSaunQ44BkN39gFtcnx9rqwdEA/edit?usp=sharing) | [Click]([https://www.notion.so/Main-Page-fe35c46b02d84682b73b5a394b44182f](https://docs.google.com/presentation/d/15syD-Y8lPkqkOD9CTaQZo1ekZ5DfNrBs/edit?usp=sharing&ouid=106249240240065525675&rtpof=true&sd=true)) | [Click](https://github.com/onesenal/Innogrid_Project.git) | 23.01.01~23.02.27 (진행중) 
 여행 정보 웹 서비스 구현  | [Click](https://docs.google.com/document/d/1wqkB6zIrmwV0IeDULK8YuQFSvVFtMm5N/edit?usp=share_link&ouid=106249240240065525675&rtpof=true&sd=true)  | [Click](https://docs.google.com/presentation/d/1au2VufDmURyHaBiN-X1neYttO9TQMRXh/edit?usp=share_link&ouid=106249240240065525675&rtpof=true&sd=true) | [Click](https://github.com/onesenal/CCCR_Project.git) |  22.12.12~22.12.30
 
 <b>Mini Projects</b>
