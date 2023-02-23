@@ -28,7 +28,7 @@
 	- 교육 기간 : 2022.07~2023.02
 	- 교육 내용 
 	해당 과정은 DevOps & SRE 엔지니어 부트 캠프로써, 클라우드 분야 우수한 교육 운영 능력을 갖춘 한국클라우드컴퓨팅연구조합과 14개 멤버십 기업이 협업하여 이론 및 실습, 실무 프로젝트로 구성한 취업 연계가 포함되어 있습니다.
-	- 교육 내용 정리 : [notion 홈페이지](https://tundra-trombone-a83.notion.site/7cb024ae34974cb7916325b3b8d8ce7a)
+	- 교육 내용 정리 : [notion](https://tundra-trombone-a83.notion.site/7cb024ae34974cb7916325b3b8d8ce7a)
 
 
 #### Skills 🚀
