@@ -56,8 +56,8 @@
 :-------------: | :-------------:  | :-------------:
  Linux project - 시스템 인프라 구현 | [Click](https://drive.google.com/file/d/16fSBJVo4zm6a5a5IAprCJPJRZYhURYBk/view?usp=sharing) | 22.09.16~22.09.21 
  Django project - 웹 서비스 개발 | [Click](https://drive.google.com/file/d/1vE2rh6WqVY7MWVKwjfRVDQvauiITB00M/view?usp=sharing) | 22.10.11~22.10.14
-  Ansible project - 자동화 도구를 활용한 인프라 구축 | [Click](https://drive.google.com/file/d/1gh0LUkz5AQvcYb4tSqdT82UzJt8vs4Tp/view?usp=sharing) | 22.09.16~22.09.21
-   K8s project - 클라우드 네이티브 구현 | [Click](https://drive.google.com/file/d/1V9K4yxZnW3LJBOt4el_tEJXd7F0D0ifd/view?usp=sharing) | 22.09.16~22.09.21
+  Ansible project - 자동화 도구를 활용한 인프라 구축 | [Click](https://drive.google.com/file/d/1gh0LUkz5AQvcYb4tSqdT82UzJt8vs4Tp/view?usp=sharing) | 22.10.31~22.11.04
+   K8s project - 클라우드 네이티브 구현 | [Click](https://drive.google.com/file/d/1V9K4yxZnW3LJBOt4el_tEJXd7F0D0ifd/view?usp=sharing) | 22.12.01~22.12.05
 
 
 
