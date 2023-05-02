@@ -23,7 +23,7 @@
 ## Categories
 
 #### Education 💻
-- 기업 멤버십 SW 캠프_CAB TA 1기 ([자세히 보기](https://www.cccr-edu.or.kr/course/course_view.jsp?id=40388&cid=4301&ch=course&page=1))
+- 기업 멤버십 SW 캠프_CAB TA 1기
 	- 운영 기관 : [CCCR Academy](https://www.cccr-edu.or.kr)
 	- 교육 기간 : 2022.07~2023.02
 	- 교육 내용 
